@@ -8,7 +8,7 @@ const HomePage = () => {
     <div>
       <nav className="sidebar">
         <ul className="menu">
-          <li>
+          <li >
             <a href="#">Home</a>
           </li>
           <li>
